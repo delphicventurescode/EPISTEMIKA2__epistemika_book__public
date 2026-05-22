@@ -18,6 +18,7 @@ We did not arrive at this point of civilizational fragility by accident. From th
 In Epistemika, technologist and academic Anand Manikutty delivers a polymathic, cross-domain diagnosis of a society trapped in an "epistemic monoculture." Drawing on fifteen years of experience writing books and articles, alongside deep insights from strategic management and global political history, Manikutty reveals that intelligence alone cannot save us. When individual cognitive biases harden into institutional echo chambers, and elite spaces reward manufactured consensus over rigorous truth-seeking, systemic failure becomes a statistical certainty.
 
 But this is not merely a book of diagnostic despair—it is an actionable operational manual for revival.
+
 Deeply philosophical yet fiercely practical, Epistemika bridges the gap between institutional blueprints and the human soul. It is an urgent, defiant invitation to reject performative certainty, embrace sagxo (wisdom), and construct a civilization worthy of its collective intelligence.
 
 **Discover the architecture of productive dissent. Turn the page to read the book.**
@@ -33,14 +34,11 @@ https://github.com/delphicventurescode/EPISTEMIKA2__epistemika_book__public/
 ### About the Author - Anand Manikutty
 #### Professional Biography
 
-Anand Manikutty is an accomplished technologist, entrepreneur, and academic who serves as a **Visiting Faculty member at PES University** in Bangalore while working as the CTO of Fulmo Technologies. Leveraging an elite academic foundation from **IIT Madras, the University of Wisconsin, Stanford University, and Harvard Business School**, he uniquely blends deep-domain computational thinking with high-level business strategy. 
+Anand Manikutty is a technologist, entrepreneur, and academic with over 25 years of experience spanning industry, research, and teaching. He serves as Visiting Faculty at PES University, Bangalore, where he teaches Strategic and Brand Management to MBA students, and as CTO of Fulmo Technologies.
 
-Over a distinguished 25-year career, he has accomplished the following:
-* Accrued **more than 15 patents**.
-* Published **peer-reviewed computer science research**.
-* Collaborated on **globally recognized strategy and leadership textbooks**.
+Anand holds degrees from IIT Madras, the University of Wisconsin, Stanford University, and Harvard Business School — a background that informs his distinctive ability to connect computational rigor with business strategy.
 
-Beyond his core technical infrastructure expertise, Anand is a prolific author of **over ten books**, spanning poetry, media projects, and original theories of political science and governance.
+His professional contributions include more than 15 patents, peer-reviewed computer science publications, and collaboration on internationally recognized strategy and leadership textbooks. Beyond technology, he is a prolific author of over ten books spanning poetry, political theory, and original frameworks in governance and civilization studies.
 
 [+]
 
