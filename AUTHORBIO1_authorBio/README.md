@@ -3,13 +3,12 @@
 ### Anand Manikutty
 #### Professional Biography
 
-Anand Manikutty is an accomplished technologist, entrepreneur, and academic who serves as a **Visiting Faculty member at PES University** in Bangalore while working as the CTO of Fulmo Technologies. Leveraging an elite academic foundation from **IIT Madras, the University of Wisconsin, Stanford University, and Harvard Business School**, he uniquely blends deep-domain computational thinking with high-level business strategy. 
+#### Professional Biography
 
-Over a distinguished 25-year career, he has accomplished the following:
-* Accrued **more than 15 patents**.
-* Published **peer-reviewed computer science research**.
-* Collaborated on **globally recognized strategy and leadership textbooks**.
+Anand Manikutty is a technologist, entrepreneur, and academic with over 25 years of experience spanning industry, research, and teaching. He serves as Visiting Faculty at PES University, Bangalore, where he teaches Strategic and Brand Management to MBA students, and as CTO of Fulmo Technologies.
 
-Beyond his core technical infrastructure expertise, Anand is a prolific author of **over ten books**, spanning poetry, media projects, and original theories of political science and governance.
+Anand holds degrees from IIT Madras, the University of Wisconsin, Stanford University, and Harvard Business School — a background that informs his distinctive ability to connect computational rigor with business strategy.
+
+His professional contributions include more than 15 patents, peer-reviewed computer science publications, and collaboration on internationally recognized strategy and leadership textbooks. Beyond technology, he is a prolific author of over ten books spanning poetry, political theory, and original frameworks in governance and civilization studies.
 
 [+]
