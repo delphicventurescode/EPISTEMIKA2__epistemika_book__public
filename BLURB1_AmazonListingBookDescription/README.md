@@ -6,6 +6,9 @@
 . Epistemika
 
 [+]
+
+#### Book Description:
+
 [+]
 
 **Why do the smartest rooms in America routinely make the most catastrophic decisions?**
