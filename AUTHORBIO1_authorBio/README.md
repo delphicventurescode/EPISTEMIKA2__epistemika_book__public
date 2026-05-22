@@ -1,7 +1,7 @@
 # README
 
-# Anand Manikutty
-### Professional Biography
+### Anand Manikutty
+#### Professional Biography
 
 Anand Manikutty is an accomplished technologist, entrepreneur, and academic who serves as a **Visiting Faculty member at PES University** in Bangalore while working as the CTO of Fulmo Technologies. Leveraging an elite academic foundation from **IIT Madras, the University of Wisconsin, Stanford University, and Harvard Business School**, he uniquely blends deep-domain computational thinking with high-level business strategy. 
 
